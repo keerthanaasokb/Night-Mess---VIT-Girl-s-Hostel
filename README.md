@@ -35,9 +35,3 @@ No additional installation is required.
 
 ## 7. Deployment
 The website can be deployed using **GitHub Pages** or **Vercel**.
-
-- **GitHub Repository:** [Add your repository link here]
-- **Live Website:** [Add your deployed website link here]
-
-## Note
-This is a student project and is not an official VIT service. Queue information, food stock, prices, ratings, and order tracking use simulated demo data. No real orders or payments are processed.
